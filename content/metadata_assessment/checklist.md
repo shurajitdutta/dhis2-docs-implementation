@@ -3,4 +3,4 @@
 
 | Criteria                        | Met |
 |---------------------------------|-----|
-| All data elements belong to a data set |     |
+| All data elements belong to a data set |  
